@@ -103,7 +103,7 @@ namespace RestaurantRater.Controllers
 
 
 
-        // GET: Restaurant/Details/{id} ; don't need a POST method becuase we only want to see the details
+        // GET: Restaurant/Details/{id} ; don't need a POST method becuase we only want to see the det
         public ActionResult Details(int? id)
         {
             if (id == null)
